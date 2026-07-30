@@ -22,7 +22,8 @@ This repository serves as my personal playground for exploring JavaScript concep
 1	Greeting generator
 2	Number counter
 3	Password strength checker
-4   coming soon....
+4   shopping list tracker
+5   coming soon...
 
     ⚡ More projects coming soon!
 
