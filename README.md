@@ -1,4 +1,4 @@
-🚀 JavaScript Playground
+🚀 Js mini projects
 
     A collection of my small JavaScript projects, experiments, and mini-applications
 
@@ -23,7 +23,8 @@ This repository serves as my personal playground for exploring JavaScript concep
 2	Number counter
 3	Password strength checker
 4   shopping list tracker
-5   coming soon...
+5   Grade calulator
+6   coming soon...
 
     ⚡ More projects coming soon!
 
