@@ -24,7 +24,8 @@ This repository serves as my personal playground for exploring JavaScript concep
 3	Password strength checker
 4   shopping list tracker
 5   Grade calulator
-6   coming soon...
+6   Tip calculator
+7   coming soon...
 
     ⚡ More projects coming soon!
 
