@@ -136,7 +136,7 @@ button10.onclick = () => {
 
 
 
-// 11. Self made question: Making a switch to go back to light mode
+// Self made question: Making a switch to go back to light mode
 
 // Solution
 let button11 = document.querySelector(".btn11");
